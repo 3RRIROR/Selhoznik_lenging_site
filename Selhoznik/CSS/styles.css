@@ -80,7 +80,7 @@ body{
     background-attachment: fixed;
     height: 100vh;
     background-size: cover;
-    background-image: url(/Selhoznik/IMAGE/Header_background_img.jpg);
+    background-image: url(https://github.com/3RRIROR/Selhoznik_lenging_site/blob/main/Selhoznik/IMAGE/Header_background_img.jpg);
 }
 .header_list{
     padding-top: 30px;
